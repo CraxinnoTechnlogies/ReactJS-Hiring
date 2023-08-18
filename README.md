@@ -31,7 +31,7 @@ So we put together this exercise that usually takes on the order of 60-90 minute
 ### Submitting
 
 - Push this repository to github
-- Email Akash@Craxinno.com and Nimish@Craxinno.com with the location of the repository - if you would like it to be private, then add the github user `mantri-craxinno` as a collaborator
+- Email Akash@Craxinno.com and Nimish@Craxinno.com with the location of the repository.
 - We will review the code within 24 hours and we can discuss it in github
 
 ### Criteria
